@@ -1,0 +1,2 @@
+# Komputer
+Łączenie z komputerem 
